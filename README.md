@@ -1,3 +1,3 @@
-# Portfólio API
+# Helix
 
 Um API desenvolvida para o gerenciamento de um conteúdo para um portfólio.
